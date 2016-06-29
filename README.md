@@ -1,6 +1,6 @@
 
 # Twitter Client
----
+
 ### Technologies Used:
 * React
 * Redux
@@ -13,7 +13,7 @@
 * Twitter
 
 ### User Stories:
-* As a guest, I should be able to log in using to the application using Twitter
+* As a guest, I should be able to log in to the application using Twitter
 * As a user, I should be able to see my twitter timeline
 * As a user, when I click on each tweet it should open detailed view of that tweet
 * As a user, I should be able to upload a photo/video to a tweet
