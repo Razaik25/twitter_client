@@ -4,7 +4,7 @@ import { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
-      <div>Hello World!</div>
+      <div>Welcome, log in using Twitter and Tweet Away!!!</div>
     );
   }
 }
